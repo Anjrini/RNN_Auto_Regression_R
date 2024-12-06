@@ -1,3 +1,5 @@
+# Mustafa Anjrini on 06.12.2024
+
 rm(list = ls())
 
 AR_prep<- function(df,x.col.names,y.col.name,lag,RNN=TRUE){
